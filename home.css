@@ -1,0 +1,124 @@
+
+b{
+	font-size: 20px;
+}
+h3
+{
+	background: #3f51b5;
+	text-align: center;
+	color: #ffffff;
+	padding: 10px 16px;
+	font-family: "Oswald";
+}
+#navigation{
+    align-content: center;
+    white-space: nowrap;
+    background-color: #4CAF50;
+    .margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+#letusknow
+{
+	text-align: center;
+	color: black;
+	text-align: center;
+	font-family: "Consolas";
+	font-size: 30px;
+
+}
+#intopic1{
+	text-align: center;
+	color: black;
+	text-align: center;
+	font-family: "Consolas";
+	font-size: 30px;
+
+}
+#button1{
+	text-align: center;
+	color: black;
+	text-align: center;
+	font-family: "Consolas";
+	font-size: 30px;
+
+}
+#demo
+{
+text-align: right;
+color: blue;
+
+}
+#outer
+{
+	background: #64b5f6;
+	text-align: center;
+	opacity: 0.80;
+	padding: 80px 80px;
+}
+ div.wrapper {
+            position:  absolute;
+            top : 200px;
+            left: 300px;
+            width: 300px;
+            height:300px;
+            border:1px solid black;
+        }
+
+input[type="text"] {
+             position: relative;
+             display: block;
+             margin : 0 auto;
+        }
+body
+{
+	background-color: white;
+	.background-image: url("down3.jpg");
+	background-repeat: no-repeat;
+    background-size: 1300px 700px;
+    opacity: .99;
+
+}
+
+ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	.background-color: #4CAF50;
+}
+
+a{
+	color: black;
+	display: block;
+	text-decoration: none;
+}
+a:hover{
+  	color: white;
+  	text-decoration: none;
+}
+li
+{
+	float: left;
+	text-align: center;
+}
+
+li a
+{
+
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 10px 16px;
+	text-decoration: none;
+}
+
+li a:hover{
+	background: #191970;
+	color: white;
+	text-decoration: none;
+}
+p{
+	font-size: 20px;
+}

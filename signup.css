@@ -1,0 +1,75 @@
+.error {
+  color: #FF0000;
+}
+h3
+{
+  background: #3f51b5;
+  text-align: center;
+  color: #ffffff;
+  padding: 10px 16px;
+  font-family: "Oswald";
+}
+
+#header{
+	text-align: center;
+	font-size: 25px;
+	color: white;
+	.font-weight: 10;
+    .font-family: "consolas";
+    background-color:#3F51B5;
+    margin-left: 570px;
+    margin-right: 570px;
+    border-radius: 10px;
+}
+#formcss{
+	width: 30%;
+	align-content: center;
+	text-align: center;
+	background-color: #ffff66;
+	font-size: 15px;
+	color: black;
+	margin: 0px auto;
+	border: 1px solid red;
+	padding: 20px;
+	border-radius: 20px 0px 20px 0px;  
+}
+#req{
+	text-align: center;
+}
+#in{
+	text-align: center;
+	color: navy;
+
+}
+body{
+.background-image: url("udgfdgl.jpg");
+background-color:  white;
+}
+
+.input-group{
+	margin: 10px 0px 10px 0px;
+}
+.input-group label{
+	display: block;
+	text-align: left;
+	margin:3px;
+	font-size: 20px;
+}
+.input-group input{
+	height: 30px;
+	width: 93%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px solid gray;
+}
+#btn{
+	height: 30px;
+	width: 93%;
+  padding: 5 px 10px;
+  font-size: 15px;
+  color: blue;
+  background-color: #5F9EA0;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
